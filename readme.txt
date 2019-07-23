@@ -5,3 +5,4 @@ forever
 never give up
 or
 must
+fun
